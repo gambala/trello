@@ -1,1 +1,1 @@
-Repository was moved to https://github.com/gambala/trello-feels-good
+The repository was moved to https://github.com/gambala/trello-feels-good
